@@ -1,0 +1,33 @@
+第一部分入门
+	第01章、什么事mysql
+	第02章、测试环境
+	第03章、初级案例研究：mysql+php	
+	
+第二部分管理工具和用户操作界面
+	第04章、mysql、mysqladmin和mysql dump
+	第05章、mysql administrator和mysql query browser
+	第06章、phpmyadmin
+	第07章、microsoft office和OpenOffice/staroffice	
+	
+第三部分基础知识
+	第08章、数据库设计概论
+	第09章、sql语言入门
+	第10章、sql解决方案
+	第11章、访问安全与信息安全
+	第12章、gis函数
+	第13章、存储过程和出发器
+	第14章、管理与服务器配置
+	
+第四部分程序设计
+	第15章、php
+	第16章、perl
+	第17章、java（jdbc和connector/j）
+	第18章、c语言
+	第19章、visual basic 6/VBA
+	第20章、visual basic.NET和C#
+	
+
+第五部分参考资料
+	第21章、sql语法指南
+	第22章、mysql工具好选项
+	第23章、mysql api应用指南
